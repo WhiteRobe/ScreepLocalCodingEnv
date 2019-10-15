@@ -1,6 +1,8 @@
 
 # Screep游戏本地编码环境
+
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
+<a href="https://zenodo.org/badge/latestdoi/193202175"><img src="https://zenodo.org/badge/193202175.svg" alt="DOI"></a>
 
 [脚本官网](https://whiterobe.github.io/ScreepLocalCodingEnv/)
 
