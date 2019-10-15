@@ -2,6 +2,8 @@
 # Screep游戏本地编码环境
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
 
+[脚本官网](https://whiterobe.github.io/ScreepLocalCodingEnv/)
+
 1. 本项目提供了基本的本地向服务器Commit local分支的方法，详见[提交代码](#提交代码)小节。
 2. 集成了js代码补全库：[ScreepsAutocomplete](https://github.com/Garethp/ScreepsAutocomplete)，配置方法见源库的Readme.md文件。
 3. 更多有趣的编程扩展，见[第三方工具](https://docs.screeps.com/third-party.html)、[本地开发和API接口](https://docs.screeps.com/commit.html).
