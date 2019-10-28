@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
 <a href="https://zenodo.org/badge/latestdoi/193202175"><img src="https://zenodo.org/badge/193202175.svg" alt="DOI"></a>
 
-[脚本官网](https://whiterobe.github.io/ScreepLocalCodingEnv/)
+> **注意** 开发环境有新的变动，请到[脚本官网](https://whiterobe.github.io/ScreepLocalCodingEnv/)拉取新的API接口
 
 1. 本项目提供了基本的本地向服务器Commit local分支的方法，详见[提交代码](#提交代码)小节。
 2. 集成了js代码补全库：[ScreepsAutocomplete](https://github.com/Garethp/ScreepsAutocomplete)，配置方法见源库的Readme.md文件。
